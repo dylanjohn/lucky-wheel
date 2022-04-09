@@ -1,0 +1,12 @@
+
+.box {
+  max-width: 400px;
+}
+
+.pointer {
+  top: -54px !important;
+}
+
+.reset-btn {
+  display: none;
+}
